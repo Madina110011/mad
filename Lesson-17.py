@@ -5,7 +5,7 @@ str1 = "privet"
 str2 = "world"
 print(str1+" "+str2)
 print(len) '''
-
+добавить полиморфизм
 
 class Shape:
     def area(self):
